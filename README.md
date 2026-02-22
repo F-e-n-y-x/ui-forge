@@ -29,7 +29,7 @@ To get started with UI Forge, simply describe the website or UI you want to buil
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/F-e-n-y-x/ui-forge.git
    cd ui-forge
    ```
 2. Install dependencies:
